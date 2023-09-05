@@ -1,4 +1,4 @@
-# EFmethodmadness
+# Emission Factor Method Madness (working title)
 
 An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the journal article "Title" to be published soon (link Arxiv).
 
