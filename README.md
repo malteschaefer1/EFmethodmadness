@@ -1,6 +1,6 @@
 # Emission Factor Method Madness (working title)
 
-An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the journal article "Title" to be published soon (link Arxiv).
+An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the journal article "Title" to be published soon (link Arxiv). Find a release version of the code [here](https://doi.org/10.24355/dbbs.084-202309131139-0 ) and of the data [here](https://doi.org/10.24355/dbbs.084-202309111514-0).
 
 ## Table of Contents
 - [Installation](#installation)
@@ -24,14 +24,15 @@ If you want to reproduce the results, just execute the cells in the notebook one
 ## Usage
 
 ### Basic Usage
-1. Download missing ENTSO-E data (AGPT and PF) into 1_data/1_raw/ENTSOE.
+1. Download missing ENTSO-E data (AGPT and PF) into 1_data/1_raw/ENTSOE (see ###Steps).
 2. Run the notebook in 3_notebooks.
 3. Play around with it, change, add, have fun.
 
 ### Advanced Usage
-Perhaps later?
+As time advances, advanced usage will be documented here.
 
 ## Code Structure
+The following refers to the file main.ipynb:
 1. The first part is mostly about wrangling with the input data, including mapping categories onto one another.
 2. The second part is mostly about calculating the various configurations of grid emission factors.
 3. The third part is mostly about creating plots from the data.
