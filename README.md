@@ -1,6 +1,6 @@
 # Emission Factor Method Madness (working title)
 
-An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the journal article "Towards Standardized Grid Emission Factors: Methodological Insights and Best Practices" to be published soon (link Arxiv). Find a release version of the code [here](https://doi.org/10.24355/dbbs.084-202309131139-0 ) and of the data [here](https://doi.org/10.24355/dbbs.084-202309111514-0).
+An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the study "Towards Standardized Grid Emission Factors: Methodological Insights and Best Practices" to be submitted soon. The preprint can be found at [arXiv](https://arxiv.org/abs/2311.01103). Find a release version of the code [here](https://doi.org/10.24355/dbbs.084-202309131139-0) and of the data [here](https://doi.org/10.24355/dbbs.084-202309111514-0).
 
 ## Table of Contents
 - [Installation](#installation)
