@@ -1,0 +1,27 @@
+name: ef_paper
+channels:
+  - defaults
+  - conda-forge
+  - cmutel
+  - bsteubing
+  - haasad
+  - pascallesage
+dependencies:
+  - jupyterlab
+  - jupyter
+  - numpy
+  - ca-certificates
+  - certifi
+  - openssl
+  - pandas
+  - plotly
+  - openpyxl
+  - geopandas
+  - matplotlib
+  - cartopy
+  - seaborn
+  - pycountry
+  - tabula-py
+  - brokenaxes
+  - statsmodels
+prefix: C:\Users\mschaefer\.conda\envs\ef_paper
