@@ -16,15 +16,15 @@ An in-depth study into the methodological aspects of grid emission factor calcul
 If you want to run the notebook without installation, check out [Jupyter](https://jupyter.org/try). Otherwise, you will need to install Python 3.
 
 ### Dependencies
-All the required packages are listed in 4_env/environment.yml.
+All the required packages are listed in 5_env/environment.yml.
 
 ### Steps
-If you want to reproduce the results, just execute the cells in the notebook one after the other. I did not upload any intermediate results, as the files are too large. Also, I could not upload ENTSO-E data, as the data is not licensed in a way that allows sharing via Github. You can get ENTSO-E data from the [ENTSO-E Transparency Portal](https://transparency.entsoe.eu/).
+If you want to reproduce the results, just execute the cells in the notebook one after the other. I did not upload any intermediate results, as the files are too large. Also, I could not upload ENTSO-E data, as the data is not licensed in a way that allows sharing via Github (I placed dummy files instead). You can get ENTSO-E data from the [ENTSO-E Transparency Portal](https://transparency.entsoe.eu/).
 
 ## Usage
 
 ### Basic Usage
-1. Download missing ENTSO-E data (AGPT and PF) into 1_data/1_raw/ENTSOE (see ###Steps).
+1. Download missing ENTSO-E data (AGPT and PF) into 1_data/1_raw/ENTSOE (see 'Steps').
 2. Run the notebook in 3_notebooks.
 3. Play around with it, change, add, have fun.
 
