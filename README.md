@@ -1,6 +1,6 @@
 # Emission Factor Method Madness (working title)
 
-An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the study "Towards Standardized Grid Emission Factors: Methodological Insights and Best Practices" to be submitted soon. The preprint can be found at [arXiv](https://arxiv.org/abs/2311.01103). Find a release version of the code [here](https://doi.org/10.24355/dbbs.084-202309131139-0) and of the data [here](https://doi.org/10.24355/dbbs.084-202309111514-0).
+An in-depth study into the methodological aspects of grid emission factor calculations. This code is the computational engine under the hood of the study [Towards Standardized Grid Emission Factors: Methodological Insights and Best Practices](https://doi.org/10.1039/D3EE04394K). Find a release version of the code [here](https://doi.org/10.24355/dbbs.084-202309131139-0) and of the data [here](https://doi.org/10.24355/dbbs.084-202309111514-0).
 
 ![ef_histogram](https://github.com/malteschaefer1/EFmethodmadness/assets/29174285/9ce58eb3-d855-412e-82fc-19336649403c)
 
@@ -43,7 +43,7 @@ The following refers to the file main.ipynb:
 All the code you see here was written by me, Malte Schäfer. Generative AI has contributed in the code generation, including debugging.
 
 ## Versioning
-So far, this is the first version. I will update this section as the respository evolves.
+1.0.0 is the release corresponding to the published research article.
 
 ## License
 This project is licensed under the MIT License - see LICENSE.md file for details.
